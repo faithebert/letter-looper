@@ -1,1 +1,1 @@
-var newName = prompt('Enter a letter');
+var name = prompt('Enter a letter');
